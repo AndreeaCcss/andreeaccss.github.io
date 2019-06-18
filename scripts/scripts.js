@@ -1,5 +1,5 @@
 var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Andreea Cucos';
+myHeading.textContent = 'HOLA';
 
 var myImage = document.querySelector('img');
 

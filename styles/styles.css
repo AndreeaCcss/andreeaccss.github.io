@@ -14,7 +14,7 @@ body {
   background-color: whitesmoke;
   text-align: center;
 }
-.wrapper {
+.header-wrapper {
   display: grid;
   grid-template-columns: 1fr 2fr;
   /* justify-items: center; */
@@ -74,9 +74,6 @@ h1 {
   animation-iteration-count: 1;
 }
 
-#image-wrapper {
-  /* width: 350px; */
-}
 #image {
   width: 50%;
   border-radius: 50%;
@@ -125,7 +122,9 @@ header {
 footer {
   margin: 50px;
   display: inline-block;
-  font-size: 20px;
+  font-size: 17px;
+  opacity: 0.8;
+  font-style: italic
 }
 
 a:visited {

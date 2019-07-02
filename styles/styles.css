@@ -129,9 +129,13 @@ footer {
   font-style: italic
 }
 
-a:visited {
-  color: black;
+i {
+  color: #2f2f38;
 }
+
+/* a:visited {
+  color: black;
+} */
 
 @media (max-width: 508px) {
 
